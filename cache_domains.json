@@ -15,6 +15,11 @@
 			"description": "CDN for Battle State Games, Tarkov",
 			"domain_files": ["bsg.txt"]
 		},
+				{
+			"name": "dell",
+			"description": "CDN for Dell Command Update",
+			"domain_files": ["dell.txt"]
+		},
 		{
 			"name": "cityofheroes",
 			"description": "CDN for City of Heroes (Homecoming)",
